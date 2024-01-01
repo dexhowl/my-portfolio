@@ -8,3 +8,10 @@
     color: #fff;
     transition: all 0.3s;
 }
+
+#home {
+    background-image: url('/images/hero-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
